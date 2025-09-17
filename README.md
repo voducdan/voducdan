@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm <a href="https://voducdan.github.io/cv/" target="blank">
+<h1 align="center">Hello World 👋, I'm <a href="https://voducdan.github.io/spec-driven/" target="blank">
 Dan Vo</a></h1>
 <h3 align="center">I am a Web developer/Data Engineer from Vietnam 🇻🇳</h3>
 
